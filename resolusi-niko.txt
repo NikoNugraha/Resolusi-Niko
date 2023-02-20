@@ -3,4 +3,5 @@ Resolusi Niko Nugraha 2023
 - Memahami Golang
 - Berkontribusi dalam tim saat Intern
 - Membuat website untuk portofolio
-- Mendalami Git & Github
+- Mendalami Git
+- Membuat video
