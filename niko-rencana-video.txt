@@ -5,4 +5,5 @@ Video Coding
 - C
 - C++
 - Framework
+Paham kerjaan di Intern
 Video Interview
