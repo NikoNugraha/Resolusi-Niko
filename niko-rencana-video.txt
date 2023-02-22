@@ -3,9 +3,9 @@ Rencana Video Niko Nugraha
 Video Coding
 - C
 - C++
-- Framework
-  - Angular
-  - React
-  - Laravel
+- Framework Laravel
+- Framework JS
+- Framework React
 Paham kerjaan di Intern
 Video Interview
+Python
