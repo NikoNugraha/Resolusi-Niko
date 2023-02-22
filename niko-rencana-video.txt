@@ -1,9 +1,11 @@
 Rencana Video Niko Nugraha
 
-Video About My Life
 Video Coding
 - C
 - C++
 - Framework
+  - Angular
+  - React
+  - Laravel
 Paham kerjaan di Intern
 Video Interview
