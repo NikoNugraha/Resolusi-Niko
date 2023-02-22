@@ -6,6 +6,7 @@ Video Coding
 - C++
 - Framework Laravel
 - Framework JS
+- Framework React
 Paham kerjaan di Intern
 Video Interview
 Python
