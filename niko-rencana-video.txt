@@ -4,6 +4,9 @@ Video About My Life
 Video Coding
 - C
 - C++
-- Framework
+- Framework Laravel
+- Framework JS
+- Framework React
 Paham kerjaan di Intern
 Video Interview
+Python
